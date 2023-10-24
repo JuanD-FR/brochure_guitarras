@@ -8,7 +8,8 @@ export const GuitarCard = ({
     color
  }) => {
 
-    const imageUrl = `/assets/${ id }.jpg`;
+    const imageUrl = `../../assets/${ id }.jpg`;
+    
 
   return (
     <div className="col animate__animated animate__fadeIn">
