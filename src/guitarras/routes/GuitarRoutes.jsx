@@ -17,7 +17,7 @@ export const GuitarRoutes = () => {
                 <Route path="guitars/:id" element={ <GuitarPage /> } />
                 
                 <Route path="search" element={ <SearchPage /> } />
-                <Route path="/" element={ <Navigate to="/fender" /> } />
+                <Route path="/" element={ <Navigate to="/" /> } />
             </Routes>
         </div>
 
