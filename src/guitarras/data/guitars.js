@@ -193,14 +193,14 @@ export const guitars = [
         'brand':'Charvel', 
         'refference':'Charvel San Dimas Blue', 
         'artists':'Joe Duplantier, Satchel, Jim Root',
-        'color': 'green',
+        'color': 'blue',
     },
     {
         'id': 'sandimas_green',
         'brand':'Charvel', 
         'refference':'Charvel San Dimas Green', 
         'artists':'Joe Duplantier, Satchel, Jim Root',
-        'color': 'blue',
+        'color': 'green',
     },
     {
         'id': 'sandimas_purple',
