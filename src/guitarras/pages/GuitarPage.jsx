@@ -18,7 +18,7 @@ export const GuitarPage = () => {
     <div className="row mt-5">
       <div className="col-4">
         <img 
-        src={ `../public/assets/${ id }.jpg` } 
+        src={ `../public/${ id }.jpg` } 
         alt={ guitar.refference }
         className="img-thumbnail animate__animated animate__fadeInLeft" 
         />
