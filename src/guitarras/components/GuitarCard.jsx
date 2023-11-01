@@ -2,7 +2,6 @@ import { Link } from "react-router-dom";
 
 export const GuitarCard = ({ 
     id,
-    brand,
     refference,
     artists,
     color
