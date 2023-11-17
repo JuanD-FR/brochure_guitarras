@@ -7,7 +7,7 @@ export const GuitarCard = ({
     color
  }) => {
 
-    const imageUrl = `/public/${ id }.jpg`;
+    const imageUrl = `assets/${ id }.jpg`;
     
 
   return (
